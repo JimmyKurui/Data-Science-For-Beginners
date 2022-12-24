@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Farming | How can I use data to improve diary cattle management? | Inventory of feed, Milk quantity and quality, Health data, Geolocation data | Semi-structured | | Feed scheduling, Factors affecting milk, Health status, Farm geofencing |
+| Farming | How can I use data to improve diary cattle management? | Inventory of feed, Milk quantity and quality, Health data, Geolocation data | Semi-structured | Feed scheduling, Factors affecting milk, Health status, Farm geofencing |
 | Housing | How can I use data to control house conditions? | Temperature, Humidity, Water usage, Lighting, Electricity usage | Structured | Auto-lighting, Power regulation   |
 | Productivity | How can I use data to build up discipline? | Activity time, KPI per activity, Environmental conditions, Health status | Semi-structured | Environmental setup, Activity scheduling, Support programming |
 
