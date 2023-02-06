@@ -57,3 +57,17 @@ Create queries to return the following information:
 
 | Exemplary | Adequate | Needs Improvement |
 | --------- | -------- | ----------------- |
+
+## Answer
+[02-01 Assignment.zip](https://github.com/JimmyKurui/Data-Science-For-Beginners/files/10662019/02-01.Assignment.zip)
+
+1. ![image](https://user-images.githubusercontent.com/71793888/216948894-e246ee12-795e-47a2-b335-c1c3c83eb984.png)
+2. ![image](https://user-images.githubusercontent.com/71793888/216949037-e7199c23-5f07-4099-8704-9bb0b03e1836.png)
+3. ![image](https://user-images.githubusercontent.com/71793888/216949300-014d2863-9147-4c93-8843-e1628d161596.png)
+4. ![image](https://user-images.githubusercontent.com/71793888/216949538-67c7b022-f2b2-420e-ba1d-f1c60a5be62a.png)
+
+
+
+
+
+
