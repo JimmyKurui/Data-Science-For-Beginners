@@ -17,3 +17,4 @@ The [Coca Cola Co spreadsheet](CocaColaCo.xlsx) is missing some calculations. Yo
 
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
+All requirements completed. The work is available in CocaColaCo_Assignment.xlsx
