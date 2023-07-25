@@ -10,5 +10,7 @@ Use the techniques in this lesson to make recommendations about the form so it c
 
 ## Rubric
 
-Exemplary | Adequate | Needs Improvement
---- | --- | -- |
+Exemplary | Adequate | Needs Improvement |
+| --- | --- | --- |
+| States output correctly: Each state code mapped to create Consisteny, one letter casing used  | --- | --- |
+| Months output correctly: Formatting for consistency through mapping and letter casing | --- | Datetime formating for months |
